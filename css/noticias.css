@@ -1,0 +1,41 @@
+*{
+    color: black;
+    font-size: 15px;
+}
+
+h1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: #e5017d;
+    font-size: 23px;
+}
+
+.main{
+    display: flex;
+    flex-direction: row;
+    text-align: justify;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.noticiaDerecha{
+    margin-right: 15px;
+    margin-left: 18px;
+    float: left;
+    width: 50%;
+}
+
+.noticiaIzquierda{
+    margin-right: 18px;
+    width: 500px;
+    float: right;
+}
+
+a{
+    color: blue;
+}
+
+nav li{
+    font-size: 14px;
+}
